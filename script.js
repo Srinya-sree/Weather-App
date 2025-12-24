@@ -1,4 +1,4 @@
-const apiKey = "87c01aa675d686c8a73367b456ce3c1e";
+const apiKey = "REAL_API_KEY_HERE";
 let unit = "metric";
 
 async function getWeather() {
@@ -35,3 +35,4 @@ async function getWeather() {
     console.error(error);
   }
 }
+
